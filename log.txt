@@ -1,0 +1,3 @@
+2012-04-02 16:32:24 WARN Illegal sign in attempt. Used e-mail: jan@kowalski.pl
+2012-04-03 17:13:01 ERR Entity of name "Almighty" not found.
+2012-04-03 17:13:02 NOTICE User "Grzegorz Brzęczyszczykiewicz" signed in.

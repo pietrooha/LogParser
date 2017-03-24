@@ -1,0 +1,15 @@
+{
+    "dateTime": "2012-04-02T16:32:24+02:00",
+    "type": "WARN",
+    "content": "Illegal sign in attempt. Used e-mail: jan@kowalski.pl "
+}, 
+{
+    "dateTime": "2012-04-03T17:13:01+02:00",
+    "type": "ERR",
+    "content": "Entity of name \"Almighty\" not found. "
+}, 
+{
+    "dateTime": "2012-04-03T17:13:02+02:00",
+    "type": "NOTICE",
+    "content": "User \"Grzegorz Brzęczyszczykiewicz\" signed in. "
+}, 
